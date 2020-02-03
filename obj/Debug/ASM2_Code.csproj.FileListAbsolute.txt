@@ -1,0 +1,6 @@
+D:\ASM\AP\ASM2_Code\ASM2_Code\bin\Debug\ASM2_Code.exe.config
+D:\ASM\AP\ASM2_Code\ASM2_Code\bin\Debug\ASM2_Code.exe
+D:\ASM\AP\ASM2_Code\ASM2_Code\bin\Debug\ASM2_Code.pdb
+D:\ASM\AP\ASM2_Code\ASM2_Code\obj\Debug\ASM2_Code.exe
+D:\ASM\AP\ASM2_Code\ASM2_Code\obj\Debug\ASM2_Code.pdb
+D:\ASM\AP\ASM2_Code\ASM2_Code\obj\Debug\ASM2_Code.csprojResolveAssemblyReference.cache
